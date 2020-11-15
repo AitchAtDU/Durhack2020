@@ -35,8 +35,15 @@ have asked that may have been answered
 To accomplish this, we set out to create a series webpages using bootstrap connected by a
 nodejs server. We would encorporate a database into this server that would allow users to log in using a whirlpool
 encrypted logon system that takes their durham email and password. Teachers would be given access to create classes of
-students that can view the slideshows that they can upload onto the webserver
-**someone else provide more technicalities on how we set out to do the backend pls**
+students that can view the slideshows that they can upload onto the webserver. To begin creating the back-end we began 
+looking into how to use AWS for hosting, even though we didn’t complete the project it taught us how to deploy servers 
+and connect to them. Since we didn’t have any prior knowledge on back-end programming languages we started learning the 
+basics of NodeJS and then learnt how to use express to create an API that can route requests and responses to and from 
+the server. Learning these languages took up most of our time so we were unable to put them into practice but being able 
+to understand the foundation of the back-end will prove to be very useful in the future. We also developed our basic JavaScript 
+skills by learning asynchronous JavaScript so that programs can send requests on the webpage and continue running without getting a 
+response immediately. We learnt the concept of promises and using the XML requests module. The skills we gained through doing this 
+would form the basis of our project.
 
 We created the building blocks of our project. By the end of the hackathon the homepage was functional,
 we had a suitable database and a nodejs web server hosted on AWS. Our group was learning web development
