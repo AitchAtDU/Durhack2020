@@ -15,7 +15,7 @@ The idea behind our hack was to create a web application that can provide studen
 with an anonymous and safe environment to ask questions and give feedback about a lecture.
 
 Many students feel intimadated in large zoom calls to ask the crucial questions that
-could be the key to understanding a project. Many lecturers use office hours to solve this
+could be the key to understanding a subject. Many lecturers use office hours to solve this
 to this however office hours have their own problems like being restricted to a certain time
 of day every week that students might not be able to make.
 
